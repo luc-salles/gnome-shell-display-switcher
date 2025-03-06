@@ -1,5 +1,36 @@
-gnome-shell-extension-display-switcher (1.0-0) UNRELEASED; urgency=medium
+gnome-shell-extension-display-switcher (1.Policorp-5) stable; urgency=medium
+
+  * Add correcao HDMI via USB-C
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Tue, 19 Nov 2024 13:27:43 -0400
+
+gnome-shell-extension-display-switcher (1.Policorp-4) stable; urgency=medium
+
+  * Fix para Lockscreen feito por Erick.
+
+ -- Matheus Aguiar <matheus.aguiar@policorp.com.br>  Tue, 10 Sep 2024 08:27:00 -0400
+
+gnome-shell-extension-display-switcher (1.Policorp-3) stable; urgency=medium
+
+  * Fix para enderecamento
+
+ -- Matheus Aguiar <matheus.aguiar@policorp.com.br>  Tue, 03 Sep 2024 02:47:30 -0400
+
+gnome-shell-extension-display-switcher (1.Policorp-2) stable; urgency=medium
+
+  * Removido display ao clickr
+
+ -- Matheus Aguiar <matheus.aguiar@policorp.com.br>  Wed, 26 Jun 2024 09:18:59 -0400
+
+gnome-shell-extension-display-switcher (1.Policorp-1) stable; urgency=medium
+
+  * Add melhoria de config atual
+  * Remover TimeOut para tela deixar de fechar sozinha.
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Wed, 14 Feb 2024 11:48:13 -0400
+
+gnome-shell-extension-display-switcher (1.Policorp-0) UNRELEASED; urgency=medium
 
   * Initial release.
 
- -- luc-salles <lucasadrianosalles4@gmail.com>  Wed, 24 Jan 2024 13:52:34 -0400
+ -- root <root@unknown>  Wed, 24 Jan 2024 13:52:34 -0400

@@ -1,0 +1,2 @@
+event=jack/lineout LINEOUT plug
+action=/etc/acpi/hdmi-events.sh

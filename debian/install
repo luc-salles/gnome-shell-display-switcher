@@ -1,1 +1,3 @@
 monitor-display-switcher@matheus.com/ /usr/share/gnome-shell/extensions/
+scripts-events/acpi/* /etc/acpi/
+opt/* /opt/

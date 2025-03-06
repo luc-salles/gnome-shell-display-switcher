@@ -21,7 +21,6 @@ set -e
 reverte_alteracao(){
 	sed -i "s/'XF86Display'/'<Super>p','XF86Display'/"  /usr/share/glib-2.0/schemas/org.gnome.mutter.gschema.xml
 	glib-compile-schemas /usr/share/glib-2.0/schemas/
-	rm -rf /usr/share/gnome-shell/extensions/monitor-display-switcher@matheus.com/
 
 }
 

@@ -22,15 +22,15 @@ remove_tecla_super(){
 }
 
 compile_schemas(){
-	glib-compile-schemas /usr/share/gnome-shell/extensions/monitor-display-switcher@matheus.com/schemas/
 	glib-compile-schemas /usr/share/glib-2.0/schemas/
 
 }
 
 case "$1" in
     configure)
-	compile_schemas
-	remove_tecla_super
+#	compile_schemas
+#	remove_tecla_super
+        chmod +x /etc/acpi/hdmi-events.sh
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)

@@ -1,12 +1,10 @@
 {
-    "name" : "Monitor Display Switcher",
-    "gettext-domain": "monitordisplay",
-    "description" : "A simple extension, using gnome-shell and mutter api",
-    "shell-version" : [
-        "43"
-    ],
-    "url": "https://github.com/matheus-aguiar-dev/gnome-shell-display-switcher",
-    "uuid" : "monitor-display-switcher@matheus.com",
-    "version" : 1.0
+  "name": "Monitor Display Switcher",
+  "description": "Show the monitor display when HDMI is connected",
+  "uuid": "monitor-display-switcher@matheus.com",
+  "settings-schema": "org.gnome.shell.extensions.hdmidisplay",
+  "gettext-domain": "monitordisplay",
+  "shell-version": [
+    "47"
+  ]
 }
-

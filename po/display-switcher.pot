@@ -1,50 +1,51 @@
-#  Brazilian Portuguese translation for Monitor Display Switcher.
-# Copyright (C) 2025
-# This file is distributed under the same license as the monitordisplay package.
-# Lucas Salles <>, 2025.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: monitordisplay\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-05 15:32-0300\n"
-"PO-Revision-Date: 2025-03-05 15:32-0300\n"
-"Last-Translator: Lucas Salles <>\n"
-"Language: pt_BR \n"
+"POT-Creation-Date: 2025-03-05 15:52-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: monitor-display-switcher@matheus.com/extension.js:129
 msgid "HDMI not connected."
-msgstr "HDMI não conectado"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:129
 msgid "You must have HDMI connected."
-msgstr "Você deve ter o HDMI conectado"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:139
 #: monitor-display-switcher@matheus.com/extension.js:211
 msgid "HDMI Display Mode"
-msgstr "Modo de exibição HDMI"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:146
 #: monitor-display-switcher@matheus.com/extension.js:274
 msgid "Internal only"
-msgstr "Interno Apenas"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:147
 #: monitor-display-switcher@matheus.com/extension.js:275
 msgid "External only"
-msgstr "Externo Apenas"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:148
 #: monitor-display-switcher@matheus.com/extension.js:276
 msgid "Extended"
-msgstr "Juntar Telas"
+msgstr ""
 
 #: monitor-display-switcher@matheus.com/extension.js:149
 #: monitor-display-switcher@matheus.com/extension.js:277
 msgid "Mirror"
-msgstr "Espelhar"
+msgstr ""

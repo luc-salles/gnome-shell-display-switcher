@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hdmidisplay" path="/org/gnome/shell/extensions/hdmidisplay/">
+    <key type="as" name="shortcut-hdmidisplay">
+      <default><![CDATA[['<Super>p']]]></default>
+      <summary>Atalho para abrir Netflix</summary>
+      <description>Configuração do atalho de teclado para abrir o Netflix.</description>
+    </key>
+  </schema>
+</schemalist>

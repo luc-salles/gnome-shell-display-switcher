@@ -1,0 +1,44 @@
+.hdmi-panel {
+    display: none;
+    position: fixed;
+    width: 200px;
+    background-color: #252323;
+    padding: 20px;
+    overflow-y: auto;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.hdmi-button {
+    background-color: #252323;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    margin-top: 150px; /*150 padrão 65 minimo*/
+    border-radius: 5px;
+    font-size: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.hdmi-button-active {
+    background-color: #b0b0b0 !important;
+    color: black;
+}
+
+
+.hdmi-button:hover {
+    background-color: #b0b0b0;
+}
+
+.hdmi-title {
+    color: rgba(255, 255, 255, 0.938);
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
